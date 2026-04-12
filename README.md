@@ -4,10 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Elsaed!;" />
 </h1>
 
-<h5 align="center">Hello, I’m Mohamed, a passionate and dedicated backend developer with a deep love for building robust and scalable web solutions.
+<h5 align="center">
+Hello, I’m Mohamed, a backend developer specialized in building scalable systems using ASP.NET Core and C#.
 
-I have extensive experience in the backend field, where I’ve had the opportunity to work on a diverse range of projects, including e-commerce platforms, payment gateways, and developing APIs. My journey as a backend developer has equipped me with the skills and knowledge needed to design efficient, secure, and scalable systems that ensure seamless user experiences and smooth interactions between different services.</h5>
+I have hands-on experience developing real-world backend applications, including e-commerce systems, payment integrations, and RESTful APIs. I focus on applying Clean Architecture principles, designing maintainable systems, and building high-performance APIs using modern technologies like Redis, Hangfire, and Stripe.
 
+I’m passionate about writing clean code, solving complex backend problems, and continuously improving my skills in software architecture and system design.
+</h5>
 <br/>
 
 <div align="center"> 
@@ -30,13 +33,13 @@ I have extensive experience in the backend field, where I’ve had the opportuni
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,jquery,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,dotnet,visualstudio,redis,docker,postman,git,github" />
+    <br/>
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
+
+
+
 
 <br/>
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
- <img align="left" alt="my stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elsaed-Omara&show_icons=true" />
- <img align="left" alt="my stats" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elsaed-Omara&layout=compact" />
