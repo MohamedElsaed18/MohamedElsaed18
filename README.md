@@ -1,4 +1,3 @@
-
 # <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Mohamed%20Elsaed&fontSize=55&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer%20&descAlignY=55&animation=fadeIn"/>
@@ -17,7 +16,7 @@
 <img src="https://img.shields.io/badge/Portfolio-GitHub-8B5CF6?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-elsaed-7252b7228/">
+<a href="https://www.linkedin.com/in/mohamedelsaed">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -44,7 +43,7 @@ I'm a **Software Engineer** focused on building scalable enterprise applications
 
 My engineering approach emphasizes **Clean Architecture**, **Microservices**, **Domain-Driven Design**, and high-performance backend systems capable of handling real-world production workloads.
 
-Beyond traditional backend engineering, I actively integrate **Generative AI**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **OCR pipelines**, and **Vector Search** into production-grade applications to solve practical business problems. :contentReference[oaicite:0]{index=0}
+Beyond traditional backend engineering, I actively integrate **Generative AI**, **LLMs**, **Retrieval-Augmented Generation (RAG)**, **OCR pipelines**, and **Vector Search** into production-grade applications to solve practical business problems.
 
 I enjoy transforming complex business requirements into maintainable software while continuously improving architecture, performance, security, and developer experience.
 
@@ -196,51 +195,44 @@ SignalR powered messaging platform supporting private chats, groups, typing indi
 
 # Experience
 
-## Software Engineer — Khusm
+## Software Engineer — IntegHub
 
 **Dec 2024 — Present**
 
-Working on enterprise-scale distributed systems using ASP.NET Core Microservices architecture.
+Building microservices-based enterprise solutions for banks, telecom operators, and government organizations.
 
 **Responsibilities**
 
-- Microservices Development
-- RabbitMQ Messaging
-- gRPC Communication
-- API Gateway (YARP)
-- Azure CI/CD
-- PostgreSQL Optimization
-- Angular Integration
-- Git Workflow
-- Code Reviews
+- Microservices Development & API Gateway (YARP) setup.
+- Optimizing SQL queries & applying Redis cache-aside (Enhanced API performance by 50%).
+- Event-Driven Architecture (RabbitMQ & gRPC).
+- Implementing Outbox/Inbox & Saga patterns to eliminate distributed transaction issues.
+- Integrating LLMs (OpenAI, Gemini) with OCR & RAG-based workflows.
+- Full-stack features delivery (ASP.NET Core & Angular).
+- Cross-functional collaboration & Azure CI/CD contributions.
 
 **Skills**
 
-`ASP.NET Core` `Microservices` `Azure` `RabbitMQ` `gRPC` `Docker` `PostgreSQL`
+`ASP.NET Core` `Microservices` `PostgreSQL` `RabbitMQ` `gRPC` `YARP` `Redis` `Azure DevOps` `Docker` `LLMs`
 
 ---
 
-## .NET Backend Developer Intern — Jadara
+## Full Stack .NET Developer Trainee — Information Technology Institute (ITI)
 
-**Aug 2023 — Dec 2023**
+**Jun 2024 — Oct 2024**
 
-Worked on enterprise applications following Clean Architecture principles.
+Intensive, hands-on training focused on full-stack development, software architecture, and building production-grade applications.
 
 **Responsibilities**
 
-- REST API Development
-- Angular Integration
-- Database Optimization
-- Git Collaboration
-- Agile Development
+- Building systems using C#, ASP.NET Core, SQL Server, and Angular.
+- Applying Clean Architecture and CQRS patterns.
+- Database design, ORMs, and secure coding practices.
+- Working within Agile teams using Git workflows and structured delivery cycles.
 
 **Skills**
 
-`ASP.NET Core`
-`Angular`
-`PostgreSQL`
-`Git`
-`Clean Architecture`
+`ASP.NET Core` `C#` `Angular` `SQL Server` `Clean Architecture` `CQRS` `Git` `Agile`
 
 ---
 
@@ -253,9 +245,6 @@ Worked on enterprise applications following Clean Architecture principles.
 | Clean Architecture | Applied enterprise software architecture |
 | Full Stack Development | Delivered complete business applications |
 | REST API Engineering | Designed scalable high-performance APIs |
-
----
-
 
 ---
 
@@ -344,7 +333,7 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-elsaed-7252b7228/">
+<a href="https://www.linkedin.com/in/mohamedelsaed">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -360,5 +349,3 @@ Open To:
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
-
-````
